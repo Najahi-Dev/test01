@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.sidebar {
+    height: calc(100vh - 56px);
+}
+
+.card-text {
+    font-size: 2rem;
+}
